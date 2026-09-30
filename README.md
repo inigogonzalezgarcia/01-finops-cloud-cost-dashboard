@@ -59,6 +59,13 @@ The dashboard opens at `http://localhost:8501`.
 
 Part of a series of small, practical tools inspired by real IT operations work: cloud migrations, cost visibility and reporting to management. Everything here is built from scratch with synthetic data; no employer code or data is used.
 
+## Customisation and contact
+
+Need a version adapted to your environment (your own billing exports, budgets per team, alerts by email or Teams)? Get in touch:
+
+- Email: [inigogonzalezgarcia@yahoo.es](mailto:inigogonzalezgarcia@yahoo.es)
+- LinkedIn: [linkedin.com/in/igonzalez93](https://www.linkedin.com/in/igonzalez93)
+
 ## License
 
 MIT
