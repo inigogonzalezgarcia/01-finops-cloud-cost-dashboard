@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local config and secrets
+.env
+.streamlit/secrets.toml
+
+# Local AI tooling
+.claude/
+.agents/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
