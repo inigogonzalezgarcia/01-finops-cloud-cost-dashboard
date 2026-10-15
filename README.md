@@ -63,7 +63,7 @@ Part of a series of small, practical tools inspired by real IT operations work: 
 
 Need a version adapted to your environment (your own billing exports, budgets per team, alerts by email or Teams)? Get in touch:
 
-- Email: [inigogonzalezgarcia@yahoo.es](mailto:inigogonzalezgarcia@yahoo.es)
+- Website (contact form): [inigogonzalezgarcia.github.io](https://inigogonzalezgarcia.github.io/about.html#contacto)
 - LinkedIn: [linkedin.com/in/igonzalez93](https://www.linkedin.com/in/igonzalez93)
 
 ## License
