@@ -49,10 +49,10 @@ The dashboard opens at `http://localhost:8501`.
 
 `data_generator.py` creates 90 days of daily cost records for 10 services (5 per provider), 4 fictional departments and 3 environments. A cost spike is deliberately injected into AWS EC2 / Development over the last 7 days so the anomaly detection has something to find.
 
-## Current limitations and next steps
+## Next steps
 
-- Anomaly detection is rule-based and targets the injected scenario. Next step: a statistical baseline (rolling mean and standard deviation) per service.
-- Data is synthetic. Next step: optional import of AWS Cost Explorer / Azure Cost Management CSV exports.
+- Add a statistical baseline (rolling mean and standard deviation) per service; today's detection is rule-based and tuned to the demo scenario.
+- Import AWS Cost Explorer and Azure Cost Management CSV exports to run it on your own spend.
 - Add budget thresholds per department.
 
 ## Background
